@@ -17,7 +17,7 @@ import xml.etree.ElementTree as ET
 # Set this to the church's YouTube channel ID (starts with "UC...").
 # You can hardcode it here, or set it as a GitHub Actions secret/env var
 # named CHANNEL_ID instead (recommended so it's not buried in code).
-CHANNEL_ID = os.environ.get("CHANNEL_ID", "REPLACE_WITH_CHANNEL_ID")
+CHANNEL_ID = os.environ.get("CHANNEL_ID", "UCe3jQ13Ci0w03QtQuLxQjrQ")
 
 NUM_VIDEOS = 4  # 1 featured + 3 previous
 OUTPUT_PATH = os.path.join(os.path.dirname(__file__), "..", "docs", "videos.json")
