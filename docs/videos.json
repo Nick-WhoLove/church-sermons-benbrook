@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-07-12T10:35:39.096194Z",
+  "updatedAt": "2026-07-12T13:23:49.909326Z",
   "channelId": "UCe3jQ13Ci0w03QtQuLxQjrQ",
   "videos": [
+    {
+      "id": "9rjFg1gUBYI",
+      "title": "July 12th, 2026",
+      "published": "2026-07-12T12:17:53+00:00",
+      "description": "Welcome to The Church at Benbrook!",
+      "url": "https://www.youtube.com/watch?v=9rjFg1gUBYI",
+      "embedUrl": "https://www.youtube.com/embed/9rjFg1gUBYI",
+      "thumbnail": "https://i.ytimg.com/vi/9rjFg1gUBYI/hqdefault.jpg",
+      "thumbnailLarge": "https://i.ytimg.com/vi/9rjFg1gUBYI/maxresdefault.jpg"
+    },
     {
       "id": "D0jVzqNbQrQ",
       "title": "July 5th, 2026",
@@ -31,16 +41,6 @@
       "embedUrl": "https://www.youtube.com/embed/LOHVfYbYUNY",
       "thumbnail": "https://i.ytimg.com/vi/LOHVfYbYUNY/hqdefault.jpg",
       "thumbnailLarge": "https://i.ytimg.com/vi/LOHVfYbYUNY/maxresdefault.jpg"
-    },
-    {
-      "id": "q0n01nFAnZ4",
-      "title": "June 11th, 2026",
-      "published": "2026-06-15T05:49:11+00:00",
-      "description": "Welcome to The Church at Benbrook!",
-      "url": "https://www.youtube.com/watch?v=q0n01nFAnZ4",
-      "embedUrl": "https://www.youtube.com/embed/q0n01nFAnZ4",
-      "thumbnail": "https://i.ytimg.com/vi/q0n01nFAnZ4/hqdefault.jpg",
-      "thumbnailLarge": "https://i.ytimg.com/vi/q0n01nFAnZ4/maxresdefault.jpg"
     }
   ]
 }
