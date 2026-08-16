@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-08-16T12:41:00.065140Z",
+  "updatedAt": "2026-08-16T15:22:50.677430Z",
   "channelId": "UCe3jQ13Ci0w03QtQuLxQjrQ",
   "videos": [
+    {
+      "id": "rCi_9uEaFME",
+      "title": "August 16th 2026",
+      "published": "2026-08-16T14:54:21+00:00",
+      "description": "Welcome to The Church at Benbrook. Join us for worship and prayer.",
+      "url": "https://www.youtube.com/watch?v=rCi_9uEaFME",
+      "embedUrl": "https://www.youtube.com/embed/rCi_9uEaFME",
+      "thumbnail": "https://i.ytimg.com/vi/rCi_9uEaFME/hqdefault.jpg",
+      "thumbnailLarge": "https://i.ytimg.com/vi/rCi_9uEaFME/maxresdefault.jpg"
+    },
+    {
+      "id": "je_nWSKQeWc",
+      "title": "August 16th 2026",
+      "published": "2026-08-16T14:53:55+00:00",
+      "description": "Welcome to The Church at Benbrook. Join us for worship and prayer.",
+      "url": "https://www.youtube.com/watch?v=je_nWSKQeWc",
+      "embedUrl": "https://www.youtube.com/embed/je_nWSKQeWc",
+      "thumbnail": "https://i.ytimg.com/vi/je_nWSKQeWc/hqdefault.jpg",
+      "thumbnailLarge": "https://i.ytimg.com/vi/je_nWSKQeWc/maxresdefault.jpg"
+    },
     {
       "id": "geBGjCy4l4M",
       "title": "August 16th 2026",
@@ -21,26 +41,6 @@
       "embedUrl": "https://www.youtube.com/embed/plmi8z6sE68",
       "thumbnail": "https://i.ytimg.com/vi/plmi8z6sE68/hqdefault.jpg",
       "thumbnailLarge": "https://i.ytimg.com/vi/plmi8z6sE68/maxresdefault.jpg"
-    },
-    {
-      "id": "bgRHx51hfxo",
-      "title": "August 1st, 2026",
-      "published": "2026-08-03T04:58:19+00:00",
-      "description": "Welcome to The Church at Benbrook!",
-      "url": "https://www.youtube.com/watch?v=bgRHx51hfxo",
-      "embedUrl": "https://www.youtube.com/embed/bgRHx51hfxo",
-      "thumbnail": "https://i.ytimg.com/vi/bgRHx51hfxo/hqdefault.jpg",
-      "thumbnailLarge": "https://i.ytimg.com/vi/bgRHx51hfxo/maxresdefault.jpg"
-    },
-    {
-      "id": "jomqL0mzG8k",
-      "title": "July 26th, 2026",
-      "published": "2026-07-27T05:24:12+00:00",
-      "description": "Welcome to The Church at Benbrook!",
-      "url": "https://www.youtube.com/watch?v=jomqL0mzG8k",
-      "embedUrl": "https://www.youtube.com/embed/jomqL0mzG8k",
-      "thumbnail": "https://i.ytimg.com/vi/jomqL0mzG8k/hqdefault.jpg",
-      "thumbnailLarge": "https://i.ytimg.com/vi/jomqL0mzG8k/maxresdefault.jpg"
     }
   ]
 }
