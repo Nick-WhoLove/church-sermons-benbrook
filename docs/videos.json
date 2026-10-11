@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-10-11T12:17:35.989651Z",
+  "updatedAt": "2026-10-11T19:22:54.053481Z",
   "channelId": "UCe3jQ13Ci0w03QtQuLxQjrQ",
   "videos": [
+    {
+      "id": "0ku3oQR8O1w",
+      "title": "October 11th, 2026",
+      "published": "2026-10-11T13:28:46+00:00",
+      "description": "Welcome to The Church at Benbrook. Join us for worship and prayer.",
+      "url": "https://www.youtube.com/watch?v=0ku3oQR8O1w",
+      "embedUrl": "https://www.youtube.com/embed/0ku3oQR8O1w",
+      "thumbnail": "https://i.ytimg.com/vi/0ku3oQR8O1w/hqdefault.jpg",
+      "thumbnailLarge": "https://i.ytimg.com/vi/0ku3oQR8O1w/maxresdefault.jpg"
+    },
     {
       "id": "mTn0i-utMkA",
       "title": "October 4th, 2026",
@@ -31,16 +41,6 @@
       "embedUrl": "https://www.youtube.com/embed/IH0oAuAdXiA",
       "thumbnail": "https://i.ytimg.com/vi/IH0oAuAdXiA/hqdefault.jpg",
       "thumbnailLarge": "https://i.ytimg.com/vi/IH0oAuAdXiA/maxresdefault.jpg"
-    },
-    {
-      "id": "K-pgqHR6Xqc",
-      "title": "September 13th 2026",
-      "published": "2026-09-14T04:55:59+00:00",
-      "description": "Welcome to The Church at Benbrook. Join us for worship and prayer.",
-      "url": "https://www.youtube.com/watch?v=K-pgqHR6Xqc",
-      "embedUrl": "https://www.youtube.com/embed/K-pgqHR6Xqc",
-      "thumbnail": "https://i.ytimg.com/vi/K-pgqHR6Xqc/hqdefault.jpg",
-      "thumbnailLarge": "https://i.ytimg.com/vi/K-pgqHR6Xqc/maxresdefault.jpg"
     }
   ]
 }
