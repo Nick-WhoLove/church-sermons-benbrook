@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-11-01T19:23:56.821184Z",
+  "updatedAt": "2026-11-02T10:39:55.573897Z",
   "channelId": "UCe3jQ13Ci0w03QtQuLxQjrQ",
   "videos": [
+    {
+      "id": "Q60aRqABXjM",
+      "title": "November 1st 2026",
+      "published": "2026-11-02T10:19:23+00:00",
+      "description": "Welcome to The Church at Benbrook. Join us for worship and prayer.",
+      "url": "https://www.youtube.com/watch?v=Q60aRqABXjM",
+      "embedUrl": "https://www.youtube.com/embed/Q60aRqABXjM",
+      "thumbnail": "https://i.ytimg.com/vi/Q60aRqABXjM/hqdefault.jpg",
+      "thumbnailLarge": "https://i.ytimg.com/vi/Q60aRqABXjM/maxresdefault.jpg"
+    },
     {
       "id": "_RunVEuyGzo",
       "title": "November 1st, 2026",
@@ -11,16 +21,6 @@
       "embedUrl": "https://www.youtube.com/embed/_RunVEuyGzo",
       "thumbnail": "https://i.ytimg.com/vi/_RunVEuyGzo/hqdefault.jpg",
       "thumbnailLarge": "https://i.ytimg.com/vi/_RunVEuyGzo/maxresdefault.jpg"
-    },
-    {
-      "id": "Q60aRqABXjM",
-      "title": "November 1st 2026",
-      "published": "2026-11-01T15:33:23+00:00",
-      "description": "Welcome to The Church at Benbrook. Join us for worship and prayer.",
-      "url": "https://www.youtube.com/watch?v=Q60aRqABXjM",
-      "embedUrl": "https://www.youtube.com/embed/Q60aRqABXjM",
-      "thumbnail": "https://i.ytimg.com/vi/Q60aRqABXjM/hqdefault.jpg",
-      "thumbnailLarge": "https://i.ytimg.com/vi/Q60aRqABXjM/maxresdefault.jpg"
     },
     {
       "id": "lb65CcMhwvU",
